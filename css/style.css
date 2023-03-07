@@ -1,0 +1,373 @@
+header {
+    align-items: center;
+}
+
+.nav.nav-pills {
+    list-style-type: none;
+    display: flex;
+    width: 75%;
+
+    justify-content: end;
+
+}
+
+.nav.nav-pills a {
+    color: white;
+    font-size: 16px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 15px;
+
+
+}
+
+.nav.nav-pills li {
+    color: white;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button1 {
+    background-color: #916C80
+}
+
+header {
+    align-items: center;
+    background-image: url(../images/banner-img.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+    min-height: 600px;
+    position: relative;
+}
+
+.container.great {
+    padding-bottom: 5px;
+    height: 368px;
+    text-align: center;
+}
+
+.nav.nav-pills .active a {
+    color:
+        #BA4406;
+    border-bottom: 2px solid rgba(186, 68, 6, 1);
+    border-radius: 0;
+}
+
+.box {
+    font-size: 20px;
+    font-family: 'Montserrat';
+    color:
+        #251A51;
+    font-weight: 700;
+
+}
+
+.anu {
+    font-size: 18px;
+    font-family: 'Montserrat';
+}
+
+.blue {
+    font-size: 44px;
+    color:
+        #251A51;
+    font-weight: 700;
+}
+
+.green {
+    font-size: 18px;
+    font-family: 'Montserrat';
+}
+
+.body {
+    font-family: 'Montserrat';
+}
+
+.row.durga {
+    padding-top: 107px;
+    padding-bottom: 20px;
+}
+
+.raji {
+    position: absolute;
+    background-color: white;
+    min-height: 1px;
+    width: 24px;
+    margin-left: 195px;
+    margin-top: 2px;
+
+}
+
+.raji .h4 {
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation {
+    background-color: #21202F;
+    padding: 20px 0;
+}
+
+h1.w3-xlarge {
+    color: #EBD0CE;
+    font-weight: 700;
+    padding-bottom: 89px;
+    font-size: 49px;
+}
+
+.bag {
+    color: #FFFFFF;
+}
+
+.form-control {
+    height: calc(1.5em + .75rem + 2px);
+    padding: .3rem .625rem;
+    font-size: 0.875rem;
+    color: var(--santasGrey);
+    border-color: var(--santasGrey);
+    border-radius: 0.3125rem;
+    font-weight: 300;
+}
+
+select.search-slt {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url(../images/chevron-down.svg);
+    background-repeat: no-repeat;
+    background-position: center right 15px;
+}
+
+.search-slt {
+    color: var(--midblack);
+    border-color: var(--zircon);
+    font-size: 0.938rem;
+    background-image: none;
+    border-width: 0 0 0 2px;
+    height: auto;
+    border-radius: 0;
+    padding: 0.35rem 1rem;
+    box-shadow: inherit !important;
+}
+
+.col-sec:nth-last-child(1)::after {
+    background-color: var(--santasGrey);
+    content: '';
+    position: absolute;
+    top: -5px;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 70px;
+}
+
+h4 {
+    color: white;
+}
+
+.col-sec {
+    min-width: 176px;
+    position: relative;
+}
+
+.search-sec {
+    margin-bottom: 120px;
+}
+
+.button1 {
+    background-color:
+        #916C80;
+
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:5px;
+}
+
+.h4 {
+    font-family: 'Montserrat';
+}
+
+.parentclass .nav.nav-pills a.nav-link {
+    color: black;
+}
+
+.parentclass li {
+    background-color: white;
+    border: 1px solid #f0f0f0;
+    color: #f20;
+    height: 55px;
+    min-width: 192px;
+
+}
+
+.yellow a {
+    color: blue;
+}
+
+li.nav-item.boll {
+    background-color: #9597A6;
+    border-radius: 0px 10px 10px 0px;
+    color: #251A51;
+    border: 1px solid #9597A6;
+
+}
+li.nav-item.boll a {
+    color: #251A51 !important;
+}
+
+li.nav-item.boll2 {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.parentclass {
+    padding-top: 120px;
+}
+
+.parentclass .nav.nav-pills {
+    justify-content: center;
+    margin: auto;
+
+}
+
+img.file {
+    margin: 0 5px;
+}
+
+img.ganga {
+    padding-left: 173px;
+}
+
+h4 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+.nav.nav-pills {
+    font-family: 'Montserrat';
+}
+
+.boll a nav-link li {
+    color: #251A51;
+}
+
+img .curve {
+    left: -119px;
+}
+
+img.curve {
+    position: absolute;
+
+    top: 771px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+img .king {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px !important;
+    margin: auto;
+    overflow-x: hidden !important;
+    color: var(--black);
+}
+
+.dos-sec {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    color: #E3707F;
+    opacity: 0.5;
+}
+
+
+
+h3 {
+    font-size: 1.75rem;
+    font-weight: 600 !important;
+    font-family: 'Montserrat';
+}
+
+img.school {
+
+    opacity: 1 !important;
+
+}
+
+
+p.queen {
+    padding-left: 120px;
+    padding-right: 20px;
+    position: relative;
+}
+img.curve {
+    position: absolute;
+    top: -105px;
+    margin-left: 0;
+}
+img.king {
+    padding-left: 394px;
+    position: absolute;
+    margin-top: -89px;
+}
+.blue p{
+padding-left: 130px;
+}
+.blue img{
+    opacity: 1;
+    margin-left: 12px;
+    margin-top: -15px;
+}
+.blue .school{
+    margin-top: 20px;
+}
+a.nav-link.sign {
+    color: #916C80;
+}
+.boll img {
+    padding-right: 4px;
+    opacity: 1;
+}
+@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
+    div.example {
+      font-size: 50px;
+      padding: 50px;
+      border: 8px solid black;
+      background: yellow;
+    }
+  }
